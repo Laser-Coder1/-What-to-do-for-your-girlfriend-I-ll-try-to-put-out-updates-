@@ -1,7 +1,7 @@
 @echo off
 setlocal enabledelayedexpansion
 
-title What to do for your girlfriend - User Console
+title What to do for your girlfriend - Love Console
 color 0A
 echo ======================================
 echo    What to do for your girlfriend
@@ -28,7 +28,7 @@ timeout /t 2 >nul
 
 echo {+} Applying Everything
 timeout /t 1 >nul
-echo {+} Giveing her snacks
+echo {+} Give her snacks
 timeout /t 1 >nul
 echo {+} Buy her stuff
 timeout /t 1 >nul
